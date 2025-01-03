@@ -1,2 +1,2 @@
-# Button-style-
-Button styled in hover, transition and shadow.
+# Button-styling-
+Button styled in hover, transition, and shadow.
